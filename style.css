@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(247, 245, 245, 0.945);
+}
+
+.info {
+    display: inline-block;
+    width: 200px;
+    color: rgb(0, 0, 0);
+}
+
+.toppic {
+    height: 121px;
+    padding-right: 30px;
+}
+.banner {
+    height: 130px;
+    margin-left: 13%;
+    display: inline-block;
+    font-size: 10px;
+    border-bottom: solid 2px rgb(0, 0, 0);
+    width: 1300px;
+}
+ul {
+    list-style-type: none;
+}
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 60%;
+    margin-left: 9%;
+    font-size: 13px;
+    
+}
+.backimage {
+    height: 761px;
+    width: 100%;
+}
+.promos {
+   float: left;
+}
+.promoimage {
+    height: 30px;
+    width: 25px;
+}
